@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\bin\Debug\net6.0\ForSomaNaturais.exe
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\bin\Debug\net6.0\ForSomaNaturais.deps.json
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\bin\Debug\net6.0\ForSomaNaturais.runtimeconfig.json
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\bin\Debug\net6.0\ForSomaNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\bin\Debug\net6.0\ForSomaNaturais.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.AssemblyInfo.cs
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\refint\ForSomaNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ForSomaNaturais.genruntimeconfig.cache
+C:\Users\ccc\source\repos\LacosRepeticao\ForSomaNaturais\obj\Debug\net6.0\ref\ForSomaNaturais.dll

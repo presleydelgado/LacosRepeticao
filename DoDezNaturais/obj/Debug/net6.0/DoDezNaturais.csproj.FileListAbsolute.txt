@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.AssemblyInfo.cs
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\bin\Debug\net6.0\DoDezNaturais.exe
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\bin\Debug\net6.0\DoDezNaturais.deps.json
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\bin\Debug\net6.0\DoDezNaturais.runtimeconfig.json
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\bin\Debug\net6.0\DoDezNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\bin\Debug\net6.0\DoDezNaturais.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\refint\DoDezNaturais.dll
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\DoDezNaturais.genruntimeconfig.cache
+C:\Users\ccc\source\repos\LacosRepeticao\DoDezNaturais\obj\Debug\net6.0\ref\DoDezNaturais.dll
