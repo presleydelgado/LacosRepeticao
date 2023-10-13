@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileSomaN", "WhileSomaN\Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncadeamentoLacoMatriz3", "EncadeamentoLacoMatriz3\EncadeamentoLacoMatriz3.csproj", "{9290BC4E-E089-4CF2-8ABB-23572D063933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{C42F3AD9-E39C-4E3E-A32E-1AE17912EA25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9290BC4E-E089-4CF2-8ABB-23572D063933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9290BC4E-E089-4CF2-8ABB-23572D063933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9290BC4E-E089-4CF2-8ABB-23572D063933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42F3AD9-E39C-4E3E-A32E-1AE17912EA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42F3AD9-E39C-4E3E-A32E-1AE17912EA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42F3AD9-E39C-4E3E-A32E-1AE17912EA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42F3AD9-E39C-4E3E-A32E-1AE17912EA25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

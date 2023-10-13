@@ -1,0 +1,10 @@
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\ccc\source\repos\LacosRepeticao\Tabuada\obj\Debug\Tabuada.pdb
