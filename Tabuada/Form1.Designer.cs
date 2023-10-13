@@ -33,6 +33,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.richTextBox1resultado = new System.Windows.Forms.RichTextBox();
             this.button2adicao = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1valortabuada
@@ -79,11 +81,33 @@
             this.button2adicao.UseVisualStyleBackColor = true;
             this.button2adicao.Click += new System.EventHandler(this.button2adicao_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(528, 72);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(111, 39);
+            this.button2.TabIndex = 5;
+            this.button2.Text = "Divisão";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(528, 118);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(111, 39);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Subtração";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button2adicao);
             this.Controls.Add(this.richTextBox1resultado);
             this.Controls.Add(this.label1);
@@ -103,6 +127,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.RichTextBox richTextBox1resultado;
         private System.Windows.Forms.Button button2adicao;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

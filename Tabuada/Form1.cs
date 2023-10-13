@@ -48,5 +48,33 @@ namespace Tabuada
                 richTextBox1resultado.AppendText("\n");
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            double valortabuada = double.Parse(textBox1valortabuada.Text);
+
+            for (double x = 0; x <= valortabuada; x++)
+            {
+                for (double y = 0; y <= valortabuada; y++)
+                {
+                    richTextBox1resultado.AppendText($"\nValor: {x} - {y} = {x - y}");
+                }
+                richTextBox1resultado.AppendText("\n");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double valortabuada = double.Parse(textBox1valortabuada.Text);
+           
+            for (float x = 0; x <= valortabuada; x++)
+            {
+                for (float y = 0; y <= valortabuada; y++)
+                {
+                    richTextBox1resultado.AppendText($"\nValor : {x} / {y} = {x / y}");
+                }
+                richTextBox1resultado.AppendText("\n");
+            }
+        }
     }
 }
