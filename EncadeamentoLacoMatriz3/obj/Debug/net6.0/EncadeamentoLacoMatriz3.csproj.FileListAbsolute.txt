@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\bin\Debug\net6.0\EncadeamentoLacoMatriz3.exe
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\bin\Debug\net6.0\EncadeamentoLacoMatriz3.deps.json
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\bin\Debug\net6.0\EncadeamentoLacoMatriz3.runtimeconfig.json
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\bin\Debug\net6.0\EncadeamentoLacoMatriz3.dll
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\bin\Debug\net6.0\EncadeamentoLacoMatriz3.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.AssemblyInfo.cs
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.dll
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\refint\EncadeamentoLacoMatriz3.dll
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\EncadeamentoLacoMatriz3.genruntimeconfig.cache
+C:\Users\ccc\source\repos\LacosRepeticao\EncadeamentoLacoMatriz3\obj\Debug\net6.0\ref\EncadeamentoLacoMatriz3.dll
