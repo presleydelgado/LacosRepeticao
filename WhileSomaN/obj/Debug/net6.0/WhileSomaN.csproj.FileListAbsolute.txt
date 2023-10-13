@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.AssemblyInfo.cs
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\bin\Debug\net6.0\WhileSomaN.exe
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\bin\Debug\net6.0\WhileSomaN.deps.json
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\bin\Debug\net6.0\WhileSomaN.runtimeconfig.json
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\bin\Debug\net6.0\WhileSomaN.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\bin\Debug\net6.0\WhileSomaN.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\refint\WhileSomaN.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\WhileSomaN.genruntimeconfig.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileSomaN\obj\Debug\net6.0\ref\WhileSomaN.dll

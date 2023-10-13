@@ -1,0 +1,14 @@
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\bin\Debug\net6.0\WhileMostraDez.exe
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\bin\Debug\net6.0\WhileMostraDez.deps.json
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\bin\Debug\net6.0\WhileMostraDez.runtimeconfig.json
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\bin\Debug\net6.0\WhileMostraDez.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\bin\Debug\net6.0\WhileMostraDez.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.AssemblyInfo.cs
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\refint\WhileMostraDez.dll
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.pdb
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\WhileMostraDez.genruntimeconfig.cache
+C:\Users\ccc\source\repos\LacosRepeticao\WhileMostraDez\obj\Debug\net6.0\ref\WhileMostraDez.dll
